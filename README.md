@@ -1,5 +1,5 @@
 # rust_exercises
 Hands-on learning for Rust programming
 
-![Alt text](https://res.cloudinary.com/djmaqbzn3/image/upload/v1673117129/ai_nft_wolf_16_bvfmga.png)
+![ai_nft wolf 16](https://user-images.githubusercontent.com/5009932/235671434-924ec220-33b1-4548-a382-c65582d6bbac.png)
 
